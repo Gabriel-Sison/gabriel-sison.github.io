@@ -1,6 +1,7 @@
 # gabriel-sison.github.io
 theme: minima
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fs35764.pcdn.co%2Fwp-content%2Fuploads%2F2021%2F09%2Ftech2-1024x630.png&imgrefurl=https%3A%2F%2Femeritus.org%2Fblog%2Fexamples-of-technology-skills-in-demand%2F&tbnid=BqSXfJSkXetZlM&vet=12ahUKEwjdtK7DiL39AhXiBzQIHYh7DjsQMygFegUIARD0AQ..i&docid=MOvjOIk_JIZ_aM&w=1024&h=630&q=photo%20of%20tech&client=safari&ved=2ahUKEwjdtK7DiL39AhXiBzQIHYh7DjsQMygFegUIARD0AQ![image](https://user-images.githubusercontent.com/108769772/222406964-2a68761e-602d-4938-aa76-279e4c605e59.png)
+
+https://github.com/Gabriel-Sison/gabriel-sison.github.io/issues/1#issue-1606564620
 
 Computer Science Teaching Assistant
 Due to the generosity of the Title III grant, I was paired up with a Computer Science instructor at my school to become a teaching assistant for C SCI 100, Survey of Computing. In this role, I:
